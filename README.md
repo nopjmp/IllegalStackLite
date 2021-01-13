@@ -1,7 +1,9 @@
-# IllegalStack
+# IllegalStackLite
 A spigot based plugin dedicated to fixing glitches and exploits that have made it into final Minecraft releases.
 
-## Links
+Based on work by [dniym](https://github.com/dniym/IllegalStack).
+
+## Links for IllegalStack
 
 - [Spigot](https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/)
 - [Dev Builds](https://ci.athion.net/job/IllegalStack/)
@@ -11,4 +13,4 @@ A spigot based plugin dedicated to fixing glitches and exploits that have made i
 ## Building this project
 
 Gradle is the recommended way to build the project. Use `./gradlew build` in the main project directory to build the project.
-The output is located at `/build/libs/IllegalStack.jar`.
+The output is located at `/build/libs/IllegalStackLite.jar`.
